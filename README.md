@@ -4,7 +4,7 @@ By: Sanchay Kumar Singh
 Language: JavaScript 
 Platform: LeetCode
 
-📌 Overview
+<h1>📌 Overview</h1>
 
 This repository contains my solutions to 20 carefully selected JavaScript problems on LeetCode.
 The problems cover a wide range of topics to strengthen problem-solving skills, build algorithmic thinking, and prepare for technical interviews.
